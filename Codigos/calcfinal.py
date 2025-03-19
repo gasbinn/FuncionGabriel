@@ -5,4 +5,3 @@ if n1 < n2:
 else:
   print("El número", n2 ," es menor que el número ",n2)
 print("Fin del programa")
-  

@@ -5,3 +5,4 @@ if num1 < num2:
   print(num1,"es menor que",num2)
 else:
   print(num1,"no es menor que",num2)
+print("Fin del programa")
