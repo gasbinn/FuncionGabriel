@@ -1,3 +1,4 @@
+print("Bienvenido al programa de Gabriel :)")
 n1 = int(input("Ingresa el primer número: "))
 n2 = int(input("Ingresa el segundo número: "))
 
